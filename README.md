@@ -8,7 +8,7 @@ The results demonstrate high accuracy rates of 89.7%, 93.1%, and 93.9% for the r
 - [Abstract](#-a-b-s-t-r-a-c-t)
 - [Dataset](#-dataset)
 - [Results](#-results)
-- [Architecture](#-architecture)
+- [Architecture](#architecture)
 
 ##  📁 Dataset
 The GasHisSDB dataset used in this project contains a comprehensive collection of gastric histopathological images. Below is the distribution of images categorized by cropping size and label (abnormal or normal):
