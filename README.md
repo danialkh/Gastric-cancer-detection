@@ -8,18 +8,10 @@ The results demonstrate high accuracy rates of 89.7%, 93.1%, and 93.9% for the r
 - [Abstract](#-a-b-s-t-r-a-c-t)
 - [Dataset](#-dataset)
 - [Results](#-results)
-- [Architecture](#-architecture)
+- [Dataset](#-dataset2)
 
-
-
-## 🏛️ Architecture
-
-
-In this section, we provide a brief model architecture diagram.
-
-![Gastric_Cancer_Paper_Revised-5](https://github.com/user-attachments/assets/a0447bb9-16e4-43ba-9eea-d3b9d8e87fe1)
-
-The proposed model architecture explains how it combines EfficientNetV2B0 for feature extraction and CatBoost for classification.
+##  📁 Dataset2
+The GasHisSDB dataset used in this project contains a comprehensive collection of gastric histopathological images. Below is the distribution of images categorized by cropping size and label (abnormal or normal):
 
 
 ##  📁 Dataset
