@@ -8,7 +8,7 @@ The results demonstrate high accuracy rates of 89.7%, 93.1%, and 93.9% for the r
 - [Abstract](#-a-b-s-t-r-a-c-t)
 - [Dataset](#-dataset)
 - [Results](#-results)
-- [Architector](#-Architector)
+- [Architecture](#-Architecture)
 
 ##  📁 Dataset
 The GasHisSDB dataset used in this project contains a comprehensive collection of gastric histopathological images. Below is the distribution of images categorized by cropping size and label (abnormal or normal):
@@ -62,5 +62,5 @@ Additionally, GasHisSDB is available at the following URL:
 The results of our experiments demonstrate the effectiveness of various feature extractors and classifiers in achieving high accuracy in gastric cancer detection. Notably, the EfficientNetV2B0 combined with the CatBoost classifier achieved the highest accuracy scores of 89.7%, 93.1%, and 93.9% for the 80px, 120px, and 160px cropping sizes, respectively. Other models, such as ResNet50 and DenseNet201, also showed competitive results, particularly with the CatBoost classifier. In contrast, the InceptionV3 model underperformed compared to the others, highlighting the importance of selecting appropriate architectures for this task. Overall, these results underscore the potential of hybrid approaches in enhancing diagnostic accuracy in medical imaging.
 
 
-##  📁 Architector
+##  📁 Architecture
 The GasHisSDB dataset used in this project contains a comprehensive collection of gastric histopathological images. Below is the distribution of images categorized by cropping size and label (abnormal or normal):
