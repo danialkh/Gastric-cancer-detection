@@ -63,4 +63,3 @@ The results of our experiments demonstrate the effectiveness of various feature 
 
 
 ##  🏛️ Architecture
-In this section, we provide a brief model architecture diagram.
