@@ -63,6 +63,8 @@ The results of our experiments demonstrate the effectiveness of various feature 
 
 
 ## 🏛️ Architecture
+
+
 In this section, we provide a brief model architecture diagram.
 
 ![Gastric_Cancer_Paper_Revised-5](https://github.com/user-attachments/assets/a0447bb9-16e4-43ba-9eea-d3b9d8e87fe1)
