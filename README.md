@@ -34,6 +34,9 @@ The dataset can be downloaded from the following article:
 [GasHisSDB: A new gastric histopathology image dataset for computer-aided diagnosis of gastric cancer](https://www.sciencedirect.com/science/article/abs/pii/S0010482521010015)
 By including this reference, you provide users with a direct link to the source of the dataset, enhancing the credibility and usability of your project.
 
+Additionally, GasHisSDB is available at the following URL:  
+[GasHisSDB Repository](https://gitee.com/neuhwm/GasHisSDB.git)
+
 
 ## :beginner: Results
 
