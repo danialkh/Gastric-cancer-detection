@@ -1,6 +1,6 @@
 # Histopathology Image Analysis for Gastric Cancer Detection: A Hybrid Deep Learning and CatBoost Approach
 
-## A B S T R A C T
+## 📜 A B S T R A C T
 This project focuses on the development of a computer-aided diagnosis (CAD) system for the prompt and accurate detection of gastric cancer, leveraging advanced deep learning techniques. Given the increasing prevalence of gastric cancer, timely diagnosis is critical for effective treatment. Our approach utilizes a hybrid model that combines deep learning with gradient boosting to classify histopathology images effectively. We employed pre-trained models to extract features from the GasHisSDB dataset, which contains gastric histopathological images in varying cropping sizes (80px, 120px, and 160px). The final model integrates the EfficientNetV2B0 for feature extraction and the CatBoost classifier for image classification.
 The results demonstrate high accuracy rates of 89.7%, 93.1%, and 93.9% for the respective cropping sizes, with precision, recall, and F1-scores exceeding 0.9. Additionally, we utilized the Grad-CAM algorithm for visualization, confirming that the model focuses on relevant histological features. The t-SNE visualization further illustrated clear clustering between normal and abnormal cases. Our findings highlight the robustness and effectiveness of the proposed method in aiding gastric cancer screening, showcasing its potential for enhancing diagnostic accuracy in clinical settings.
 
