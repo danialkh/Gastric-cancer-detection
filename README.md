@@ -5,7 +5,7 @@ This project focuses on the development of a computer-aided diagnosis (CAD) syst
 The results demonstrate high accuracy rates of 89.7%, 93.1%, and 93.9% for the respective cropping sizes, with precision, recall, and F1-scores exceeding 0.9. Additionally, we utilized the Grad-CAM algorithm for visualization, confirming that the model focuses on relevant histological features. The t-SNE visualization further illustrated clear clustering between normal and abnormal cases. Our findings highlight the robustness and effectiveness of the proposed method in aiding gastric cancer screening, showcasing its potential for enhancing diagnostic accuracy in clinical settings.
 
 ## 📚 Index
-
+- [Abstract](#abstract)
 - [Dataset](#beginner-Dataset)
 - [Results](#beginner-Results)
 - [Architecture](#beginner-Architecture)
